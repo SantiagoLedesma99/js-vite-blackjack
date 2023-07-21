@@ -10,3 +10,8 @@
 
 1. Ejecutar "" npm run build ""
 2. tomar carpeta "dist" y desplegar.
+
+## Subir a GitHub
+1. git add .
+2. git commit -m "Nombre de la Actualizacion"
+3. git push
